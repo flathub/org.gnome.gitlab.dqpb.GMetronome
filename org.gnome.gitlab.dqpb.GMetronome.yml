@@ -158,8 +158,12 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.gnome.org/dqpb/gmetronome/-/releases/0.2.1/downloads/gmetronome-0.2.1.tar.bz2",
-                    "sha256": "e882d1f766fc79d743d5139dd3d642a7d6a27184199e76ac4643fb6086a8abe5"
+                    "url": "https://gitlab.gnome.org/dqpb/gmetronome/-/releases/0.2.2/downloads/gmetronome-0.2.2.tar.bz2",
+                    "sha256": "4e4786ac1cca626c7251668aad8680bc5627544a0ccd77d6a99e98992d192bc9"
+                },
+                {
+                    "type": "patch",
+                    "path": "update-metainfo.patch"
                 }
             ]
         }
