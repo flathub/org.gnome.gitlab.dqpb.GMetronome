@@ -158,8 +158,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.gnome.org/dqpb/gmetronome/-/releases/0.3.0/downloads/gmetronome-0.3.0.tar.bz2",
-                    "sha256": "6260b7bd47d58b580180b27cf0210aca9bb1c63be36ee1673a794e49d612fd67"
+                    "url": "https://gitlab.gnome.org/dqpb/gmetronome/-/releases/0.3.1/downloads/gmetronome-0.3.1.tar.bz2",
+                    "sha256": "bc3196698bef04f4031f1b0c09799dab5bd5afe26af8b7946ddfdf4c51d5965c"
                 }
             ]
         }
