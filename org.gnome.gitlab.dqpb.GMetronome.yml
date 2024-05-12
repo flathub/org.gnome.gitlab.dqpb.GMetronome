@@ -1,7 +1,7 @@
 {
     "app-id": "org.gnome.gitlab.dqpb.GMetronome",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "45",
+    "runtime-version": "46",
     "sdk": "org.gnome.Sdk",
     "command": "gmetronome",
     "finish-args": [
@@ -84,8 +84,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/glibmm/2.66/glibmm-2.66.6.tar.xz",
-                    "sha256": "5358742598181e5351d7bf8da072bf93e6dd5f178d27640d4e462bc8f14e152f"
+                    "url": "https://download.gnome.org/sources/glibmm/2.66/glibmm-2.66.7.tar.xz",
+                    "sha256": "fe02c1e5f5825940d82b56b6ec31a12c06c05c1583cfe62f934d0763e1e542b3"
                 }
             ]
         },
@@ -138,8 +138,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://download.gnome.org/sources/gtkmm/3.24/gtkmm-3.24.8.tar.xz",
-                    "sha256" : "d2940c64922e5b958554b23d4c41d1839ea9e43e0d2e5b3819cfb46824a098c4"
+                    "url" : "https://download.gnome.org/sources/gtkmm/3.24/gtkmm-3.24.9.tar.xz",
+                    "sha256" : "30d5bfe404571ce566a8e938c8bac17576420eb508f1e257837da63f14ad44ce"
                 }
             ]
         }
@@ -158,8 +158,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.gnome.org/dqpb/gmetronome/-/releases/0.3.3/downloads/gmetronome-0.3.3.tar.bz2",
-                    "sha256": "a53e51249e6029d252529f31ba8d0ba30f09de1faa236df01f22a135ff16f9af"
+                    "url": "https://gitlab.gnome.org/dqpb/gmetronome/-/releases/0.3.4/downloads/gmetronome-0.3.4.tar.bz2",
+                    "sha256": "05dd9c691c888b3316f9ecc15567c40f1bc3f3210d225aa38ea2ff86a418a27b"
                 }
             ]
         }
