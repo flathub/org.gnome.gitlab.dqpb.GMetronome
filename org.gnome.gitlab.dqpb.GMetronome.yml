@@ -13,13 +13,7 @@
     "cleanup": [
         "/include",
         "/lib/pkgconfig",
-        "/share/aclocal",
-        "/share/devhelp",
         "/share/doc",
-        "/share/gc",
-        "/share/info",
-        "/share/man",
-        "/share/pkgconfig",
         "*.la",
         "*.a"
     ],
